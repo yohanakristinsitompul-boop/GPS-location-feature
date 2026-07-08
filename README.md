@@ -58,42 +58,42 @@ Aplikasi ini menggunakan beberapa fitur native dari perangkat:
 
 ## 1. Tampilan Awal Profile Card
 
-![Tampilan Awal](img width="540" height="1412" alt="WhatsApp Image 2026-07-09 at 01 35 29 (2)" src="https://github.com/user-attachments/assets/d2051986-c55c-4d4b-9636-d81675ed6e18" /)
+(img width="540" height="1412" alt="WhatsApp Image 2026-07-09 at 01 35 29 (2)" src="https://github.com/user-attachments/assets/d2051986-c55c-4d4b-9636-d81675ed6e18" /)
 
 
 ## 2. Input Data Profile
 
-![Input Data Profile](img width="720" height="1600" alt="WhatsApp Image 2026-07-09 at 01 35 45 (1)" src="https://github.com/user-attachments/assets/4a4e524e-9c2a-44e9-a278-a92d4d494d04" /)
+(img width="720" height="1600" alt="WhatsApp Image 2026-07-09 at 01 35 45 (1)" src="https://github.com/user-attachments/assets/4a4e524e-9c2a-44e9-a278-a92d4d494d04" /)
 
 
 ## 3. Fitur Camera
 
-![Camera](img width="540" height="1412" alt="WhatsApp Image 2026-07-09 at 01 36 02" src="https://github.com/user-attachments/assets/8a4682a4-4ae6-4a93-a279-5cdd002da516" /)
+(img width="540" height="1412" alt="WhatsApp Image 2026-07-09 at 01 36 02" src="https://github.com/user-attachments/assets/8a4682a4-4ae6-4a93-a279-5cdd002da516" /)
 
 
 ## 4. Fitur Gallery
 
-![Gallery](img width="540" height="1412" alt="WhatsApp Image 2026-07-09 at 01 36 11" src="https://github.com/user-attachments/assets/e93d1165-83a9-4069-aee6-ab69526dd59b" /)
+(img width="540" height="1412" alt="WhatsApp Image 2026-07-09 at 01 36 11" src="https://github.com/user-attachments/assets/e93d1165-83a9-4069-aee6-ab69526dd59b" /)
 
 
 ## 5. Fitur GPS
 
-![GPS](img width="720" height="1600" alt="WhatsApp Image 2026-07-09 at 01 36 27" src="https://github.com/user-attachments/assets/b26f8b98-1e03-46f8-91c1-f93631b17c74" /)
+(img width="720" height="1600" alt="WhatsApp Image 2026-07-09 at 01 36 27" src="https://github.com/user-attachments/assets/b26f8b98-1e03-46f8-91c1-f93631b17c74" /)
 
 
 ## 6. Fitur Google Maps
 
-![Google Maps](img width="720" height="1600" alt="WhatsApp Image 2026-07-09 at 01 36 44" src="https://github.com/user-attachments/assets/56f6a8da-ec20-41eb-b2b3-cbead86d935f" /)
+(img width="720" height="1600" alt="WhatsApp Image 2026-07-09 at 01 36 44" src="https://github.com/user-attachments/assets/56f6a8da-ec20-41eb-b2b3-cbead86d935f" /)
 
 
 ## 7. Reset Data
 
-![Reset](img width="720" height="1600" alt="WhatsApp Image 2026-07-09 at 01 37 55" src="https://github.com/user-attachments/assets/24890324-5f42-48ab-9b7c-f0c187e06eec" /)
+(img width="720" height="1600" alt="WhatsApp Image 2026-07-09 at 01 37 55" src="https://github.com/user-attachments/assets/24890324-5f42-48ab-9b7c-f0c187e06eec" /)
 
 
 ## 8. Dialog Izin Permission
 
-![Permission](img width="720" height="1600" alt="WhatsApp Image 2026-07-09 at 01 52 06" src="https://github.com/user-attachments/assets/e3a3b000-c25b-492c-845a-fe51986ec8ef" /)
+(img width="720" height="1600" alt="WhatsApp Image 2026-07-09 at 01 52 06" src="https://github.com/user-attachments/assets/e3a3b000-c25b-492c-845a-fe51986ec8ef" /)
 
 ---
 
